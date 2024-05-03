@@ -29,17 +29,16 @@ Este é um código para um sistema de monitoramento ambiental utilizando Arduino
 
 ### Observações:
 
-Certifique-se de que todos os componentes estejam corretamente conectados ao Arduino conforme especificado no código. As bibliotecas necessárias para o funcionamento do código devem estar inst![foto_simulacao](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/a6cab504-f403-43c6-b28f-e15888be03b6)
-aladas no ambiente de desenvolvimento. Este código é fornecido como exemplo e pode ser modificado e expandido para atender às necessidades específicas do projeto.
+Certifique-se de que todos os componentes estejam corretamente conectados ao Arduino conforme especificado no código. As bibliotecas necessárias para o funcionamento do código devem estar instaladas no ambiente de desenvolvimento. Este código é fornecido como exemplo e pode ser modificado e expandido para atender às necessidades específicas do projeto.
 
 #### Link da Simulação:
 
 https://wokwi.com/projects/396823744224018433
+
+#### Foto da Simulação
+![foto_simulacao](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/a6cab504-f403-43c6-b28f-e15888be03b6)
+
+#### Foto Hands-ON
 ![WhatsApp Image 2024-05-03 at 10 31 30](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/38ccef60-a66d-4721-84f1-dfe9ad163ebb)
-
-
-
-
-
 ![WhatsApp Image 2024-05-03 at 10 31 31 (1)](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/fc9b29eb-fa8c-425f-adf2-cf0592276230)
 ![WhatsApp Image 2024-05-03 at 10 31 31](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/84865bff-13a2-43a0-a844-358dc5fbdb14)
