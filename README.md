@@ -2,6 +2,13 @@
 
 Este é um código para um sistema de monitoramento ambiental utilizando Arduino. O sistema é capaz de medir temperatura, umidade e intensidade de luz em um ambiente e exibir essas informações em um display LCD. Além disso, ele utiliza um sensor DHT11 para monitorar temperatura e umidade, um sensor LDR para medir a intensidade da luz e um LED RGB para indicar o estado do ambiente.
 
+#### Bibliotecas Utilizadas:
+
+- **DHT**: Para comunicação com o sensor DHT11.
+- **LiquidCrystal**: Para controle do display LCD.
+- **FastLED**: Para controle do LED RGB.
+- **Adafruit_NeoPixel**: Outra opção para controle de LEDs RGB, embora não seja usada diretamente no código atual.
+
 #### Componentes Utilizados:
 
 - **Arduino Uno**: A placa de desenvolvimento utilizada como base para o projeto.
