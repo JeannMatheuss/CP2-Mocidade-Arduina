@@ -30,3 +30,12 @@ Este é um código para um sistema de monitoramento ambiental utilizando Arduino
 ### Observações:
 
 Certifique-se de que todos os componentes estejam corretamente conectados ao Arduino conforme especificado no código. As bibliotecas necessárias para o funcionamento do código devem estar instaladas no ambiente de desenvolvimento. Este código é fornecido como exemplo e pode ser modificado e expandido para atender às necessidades específicas do projeto.
+
+#### Link da Simulação:
+
+https://wokwi.com/projects/396823744224018433
+
+
+
+
+
