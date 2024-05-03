@@ -29,7 +29,8 @@ Este é um código para um sistema de monitoramento ambiental utilizando Arduino
 
 ### Observações:
 
-Certifique-se de que todos os componentes estejam corretamente conectados ao Arduino conforme especificado no código. As bibliotecas necessárias para o funcionamento do código devem estar instaladas no ambiente de desenvolvimento. Este código é fornecido como exemplo e pode ser modificado e expandido para atender às necessidades específicas do projeto.
+Certifique-se de que todos os componentes estejam corretamente conectados ao Arduino conforme especificado no código. As bibliotecas necessárias para o funcionamento do código devem estar inst![foto_simulacao](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/a6cab504-f403-43c6-b28f-e15888be03b6)
+aladas no ambiente de desenvolvimento. Este código é fornecido como exemplo e pode ser modificado e expandido para atender às necessidades específicas do projeto.
 
 #### Link da Simulação:
 
