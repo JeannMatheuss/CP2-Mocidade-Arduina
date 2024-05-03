@@ -34,8 +34,11 @@ Certifique-se de que todos os componentes estejam corretamente conectados ao Ard
 #### Link da Simulação:
 
 https://wokwi.com/projects/396823744224018433
+![WhatsApp Image 2024-05-03 at 10 31 30](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/38ccef60-a66d-4721-84f1-dfe9ad163ebb)
 
 
 
 
 
+![WhatsApp Image 2024-05-03 at 10 31 31 (1)](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/fc9b29eb-fa8c-425f-adf2-cf0592276230)
+![WhatsApp Image 2024-05-03 at 10 31 31](https://github.com/JeannMatheuss/CP2-Mocidade-Arduina/assets/111705820/84865bff-13a2-43a0-a844-358dc5fbdb14)
