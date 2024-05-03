@@ -270,7 +270,7 @@ void Umidade(float umidade) {
 void Temperatura(float temperatura) {
   lcd.clear();
 
-  // Verifica a temperatura e exibe a mensagem correspondente
+  // Verifica a temperatura e exibe a mensagem correspondente 
   if (temperatura >= 10 && temperatura <= 15) {
     Verde();
     lcd.setCursor(0,0);
